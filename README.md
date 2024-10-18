@@ -1,3 +1,3 @@
 # Music Website (Java script project)
 
-A javascript project ( home page of a music website responsive for all devices (html, css, sass, javascript))
+java script project , responsive home page of music website using html css and java script
